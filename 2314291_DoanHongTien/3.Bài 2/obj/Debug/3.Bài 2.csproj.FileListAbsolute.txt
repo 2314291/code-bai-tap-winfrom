@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\bin\Debug\3.Bài 2.exe.config
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\bin\Debug\3.Bài 2.exe
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\bin\Debug\3.Bài 2.pdb
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\3.Bài 2.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\_3.Bài_2.Form1.resources
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\_3.Bài_2.frmBai1.resources
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\_3.Bài_2.Properties.Resources.resources
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\3.Bài 2.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\3.Bài 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\3.Bài 2.exe
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\3.Bài 2.pdb
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\_3.Bài_2.frmBai2.resources
+C:\Users\Admin\Downloads\2314291_DoanHongTien\2314291_DoanHongTien\2314291_DoanHongTien\3.Bài 2\obj\Debug\_3.Bài_2.frmBai3.resources
